@@ -83,3 +83,5 @@ Assets/Tests/Resources/config.json.meta
 
 # Ignore temporaries from Unity 6
 .utmp/
+config.bat
+node_modules
